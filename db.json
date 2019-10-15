@@ -1,7 +1,6 @@
 {
     "domains":[
         "api",
-        "vianor",
         "test",
         "beta",
         "nazva",
@@ -21,6 +20,9 @@
         "b2b",
         "agreements",
         "docs",
-        "shuricbest"
+        "online",
+        "wog",
+        "socar",
+        "vianor"
     ]
 }
