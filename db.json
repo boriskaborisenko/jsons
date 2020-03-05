@@ -36,6 +36,8 @@
         "getapp",
         "get",
         "shop",
-        "getshop"
+        "getshop",
+        "b2b-registration",
+        "b2b-invoice"
     ]
 }
