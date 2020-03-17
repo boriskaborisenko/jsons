@@ -38,6 +38,8 @@
         "shop",
         "getshop",
         "b2b-registration",
-        "b2b-invoice"
+        "b2b-invoice",
+        "admindemo",
+        "demoadmin"
     ]
 }
